@@ -49,7 +49,7 @@ A web-based platform designed to facilitate crime reporting and verification thr
 ## 💡 Other Projects
 
 - 🤖 **Fire Fighting Robot** — Arduino UNO-based robotics project
-- 💬 **Real-Time Chat Website** — Real-time communication web application
+- 💬 - 💬 **[Real-Time Chat Website](https://github.com/nitya-godbole/Real-Time-Chat-Website)** — Real-time communication web application
 - 🤖 **AI Chatbot** — AI-powered conversational application
 - 🪞 **Smart Mirror** — Smart interactive mirror project
 - 🚦 **AI-based Smart Traffic Signal System** — Intelligent traffic management project
