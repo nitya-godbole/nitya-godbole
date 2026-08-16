@@ -42,7 +42,7 @@ A web-based platform designed to facilitate crime reporting and verification thr
 
 **Tech:** Python • Flask • HTML • CSS • JavaScript • MySQL
 
-🔗 *GitHub repository coming soon*
+🔗 🔗 [View Project](https://github.com/nitya-godbole/Crime-Reporting-And-Verification-System)
 
 ---
 
