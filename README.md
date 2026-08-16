@@ -4,7 +4,7 @@
 
 🎓 B.E. Artificial Intelligence & Machine Learning  
 💡 Passionate about Artificial Intelligence, Machine Learning and building practical solutions  
-🌱 Currently strengthening my skills in Python full stack, Web Development, Machine Learning and Git/GitHub  
+🌱 Currently strengthening my skills in Python, full stack Web Development, Machine Learning and Git/GitHub  
 🚀 Interested in developing AI-powered applications that solve real-world problems
 
 ---
