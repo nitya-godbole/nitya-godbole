@@ -60,8 +60,8 @@ A web-based platform designed to facilitate crime reporting and verification thr
 
 ## 🏆 Hackathons & Achievements
 
-- 🥇 **Hackathon Winner** — Developed a Real-Time Chat Website as a team project
-- 🚑 **VKIT Hackathon Powered by Robomanthan** — Smart Ambulance Priority Traffic System using ESP32
+- 🥇 **Hackathon** — Developed a Real-Time Chat Website as a winning team project
+- 🚑 **VKIT Hackathon Powered by 'Robomanthan'** — Smart Ambulance Priority Traffic System using ESP32
 
 ---
 
