@@ -8,23 +8,25 @@
 🚀 Interested in developing AI-powered applications that solve real-world problems
 
 ---
-
 ## 🛠️ Technical Skills
 
-**Languages:**  
+**Programming Languages:**  
 Python • Java • C • C++
 
 **Web Technologies:**  
 HTML • CSS • JavaScript • Bootstrap • React.js
 
 **AI & Machine Learning:**  
-Machine Learning • Generative AI • Natural Language Processing • Data Visualization
+Machine Learning • Natural Language Processing • Data Visualization
 
 **Databases:**  
 SQL • MongoDB
 
 **Tools & Technologies:**  
 Git • GitHub • VS Code • Jupyter Notebook • Postman
+
+**Development:**  
+Python Full Stack
 
 ---
 
