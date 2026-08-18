@@ -11,7 +11,7 @@
 ## 🛠️ Technical Skills
 
 **Programming Languages:**  
-Python • Java • C • C++
+Python  • C • C++
 
 **Web Technologies:**  
 HTML • CSS • JavaScript • Bootstrap • React.js
